@@ -1,0 +1,33 @@
+# Executables
+*.exe
+*.out
+
+# Object files
+*.o
+*.obj
+
+# Libraries
+*.a
+*.so
+*.dll
+
+# Database files
+*.db
+
+# VS Code settings
+.vscode/
+
+# Build folders
+build/
+bin/
+
+# Temporary files
+*.log
+*.tmp
+*.cache
+
+# Ignore copied source file
+main - Copy.c
+
+# Ignore that folder
+Professional Overthinkers Code/
